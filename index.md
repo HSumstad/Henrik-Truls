@@ -9,6 +9,6 @@
     <h1>Henrik og Truls</h1>
     <br>
     <h3>ServiceDesk392</h3>
-       <p> <a href="https://hsumstad.github.io/ServiceDesk392/">Her</a></p>
+       <p> <a href="https://hsumstad.github.io/Henrik-Truls/392/index.html">Her</a></p>
 </body>
 </html>
