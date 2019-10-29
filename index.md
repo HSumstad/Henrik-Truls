@@ -8,6 +8,5 @@
     <center><h2>Oppgaver IT</h2>
     <br>
     <center><h3>ServiceDesk392 <a href="https://hsumstad.github.io/Henrik-Truls/392/index.html">Her</a></h3>
-       
-</body>
-</html>
+       </body>
+       </html>
