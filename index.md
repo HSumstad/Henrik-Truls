@@ -5,10 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 </head>
 <body>
-    <h1>Henrik og Truls</h1>
-    <h2>Oppgaver</h2>
+    <center><h2>Oppgaver IT</h2>
     <br>
-    <h3>ServiceDesk392 <a href="https://hsumstad.github.io/Henrik-Truls/392/index.html">Her</a></h3>
+    <center><h3>ServiceDesk392 <a href="https://hsumstad.github.io/Henrik-Truls/392/index.html">Her</a></h3>
        
 </body>
 </html>
