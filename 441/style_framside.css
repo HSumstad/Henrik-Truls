@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    background: rgb(105, 102, 102);
+    background-size: cover;
+  }
+
+  header {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    color: white;
+    transition: .9s;
+  }
+ 
+  h1 {
+    font-family: Moderne Sans, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    width: 100%;
+    letter-spacing: .5rem;
+  }
+  
