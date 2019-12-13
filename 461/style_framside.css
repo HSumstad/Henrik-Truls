@@ -5,6 +5,7 @@
   }
 
   header {
+    backround: url("images/barca.jpeg");
     position: fixed;
     width: 100%;
     text-align: center;
